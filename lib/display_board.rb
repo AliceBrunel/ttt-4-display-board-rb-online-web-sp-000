@@ -4,4 +4,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(array)
-  #{board[0]}
+  "#{board[0]}|#{board[2]}|#{board[3]}
+  
