@@ -1,9 +1,6 @@
 # Define display_board that accepts a board and prints
 # out the current state.
 
-board = [" ","X"," "," "," "," "," "," "," "]
-center = [" ","X"," "," "," "," "," "," "," "]
-board = [" "," "," "," "," "," "," "," "," "]
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(array)
