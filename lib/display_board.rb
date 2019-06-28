@@ -2,6 +2,9 @@
 # out the current state.
 
 board = [" "," "," "," "," "," "," "," "," "]
+center = [" "," "," "," ","X"," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(array)
   puts " #{array[0]} | #{array[2]} | #{array[3]} " 
