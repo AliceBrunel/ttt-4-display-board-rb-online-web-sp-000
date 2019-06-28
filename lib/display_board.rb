@@ -4,9 +4,9 @@
 board = [" "," "," "," "," "," "," "," "," "]
 
 def display_board(array)
-  puts "#{board[0]}|#{board[2]}|#{board[3]}
+  puts "#{array[0]}|#{array[2]}|#{array[3]}
   -----------
-  #{board[4]}|#{board[5]}|#{board[6]}
+  #{array[4]}|#{array[5]}|#{array[6]}
   -----------
-  #{board[7]}|#{board[8]}|#{board[9]}"
+  #{array[7]}|#{array[8]}|#{array[9]}"
 end
