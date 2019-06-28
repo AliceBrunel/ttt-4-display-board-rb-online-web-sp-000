@@ -10,3 +10,5 @@ def display_board(array)
   -----------
    #{array[7]} | #{array[8]} | #{array[9]}"
 end
+
+display_board(board)
