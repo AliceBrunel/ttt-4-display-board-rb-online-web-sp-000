@@ -3,9 +3,5 @@
 
 board = [" "," "," "," "," "," "," "," "," "]
 
-puts  
- "O | O | O
------------
- O | O | O
------------
- O | O | O"
+def display_board(array)
+  #{board[0]}
